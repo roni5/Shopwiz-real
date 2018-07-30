@@ -30,6 +30,7 @@
   "author": "Roni McGuinness",
   "license": "MIT",
   "dependencies": {
+    "hoek": "4.2.1",
     "object-assign": "4.1.0",
     "react": "16.4.1",
     "react-dom": "16.2.0",
